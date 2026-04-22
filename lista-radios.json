@@ -1,0 +1,67 @@
+
+
+[
+
+{
+  "name": "Radio Alpha 101.7 - São Paulo",
+  "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ALPHAFM_ADP.aac?dist=RadiosNet",
+  "genre": "Flashback, Adulta",
+"logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-o5kcD-8dni0XmqmZ5_DuApVX-0cUpk8q-ch1Dyk_m1Kk0_R-x4eX_zxCcu5M9IaaDe2blV5f7wzgVFXWCb-a1ht16_VMIjMlGjxm8DcxUvHM580nrCr28twJ8F3tW3aCqyHitfk4U4RaWmDhJM1NEX8R6Ym9R0bVrfAru4fyOY7ovd5J61eh4hRccP8/s1600/alpha.png",
+},
+ {
+    "name": "Rádio Antena 1 94.7 - São Paulo",
+    "url": "https://antenaone.crossradio.com.br/stream/1",
+  "genre": "Flashback, Adulta, Classic Hits",
+  "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgH6o7zCXpG5bmcnFD3ax0np1SFRW1rvS62mJa1X7XvPRqoYRoiqAdc_OpmBTGeLbQz3v2VwiX3I9bzPJ-U3O4syenc4KCokR916m2PfFmTkStcT8bTVotcmBWgAncgUAHLuTjuIX2tQffmCz9CFepZsFserpXVnE2WfbQ6dtENWFsLoYwVMMR9BnfYQps/s1600/ANTENA.jpg"
+  },
+ {
+    "name": "Rádio Energia 97.7 FM - São Paulo",
+    "url": "https://streaming.inweb.com.br/energia",
+  "genre": "Flashback, Dance, Futebol, Disco Dance",
+  "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkM3809FLlDdpM1e2vCiYyp-H5Xsw61EIZcbMfNDP_rKtQ5hfYGn7U998v5Vo0Zk_WBWY2vK06zy9yr0IlNqSSL_9XqzaLfyClYEsCko97uPaNxjy7pOqW_nmTHrSWq55_ahdXcPbpjP2ZxgVDOX7FgiiHYx2ru3HjEybiANZBdicadpNQw4sSLyzDExI/s1600/ENERGIA.jpg"
+  },
+ {
+    "name": "Rádio Hits 99.7 - Itaperuna / RJ",
+    "url": "https://wz7.servidoresbrasil.com:8031/stream",
+  "genre": "Flashback, Adulta, MPB",
+  "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnBpe13RhOJOU6jVL2E0qauQNyGR8pllag_hF3C-NYIOWg2SzwgLhdwjVGTYlTz6KmrQ6gdYVIq8U9r19rf-sjp1_249jcZ1_mvVL6dHjsBw7PwDRVPvEQvjliWeL2uGG-DtzmCxpjPAtKl8MuGgLqPqVoR30Z5w9NsLREUBpVo6boWrEVX_Ln6Yk1hYs/s1600/HITS.jpeg"
+  },
+ {
+    "name": "Rádio Jangadeiro 88.9 FM - Fortaleza / CE",
+    "url": "https://stream.zeno.fm/xuh02vfzurhvv",
+  "genre": "Popular, Eclética",
+  "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uetU31y8XE-rbUjy2HaAHWMYi0PhY1aLrCfeS-cBlTxDSaj1E2wW9I0kf-omecBQJjYYqSA2bYLgVcfQZllcpLzZo8whYVG5GOGH6gqjWdVOEVT6FvRIuBhAV2oyqJB93IceVIMrQdfavChn3bV-aZIOCU5XJuVw48TvKOE85_LQWkLxNCXItxDGQ-A/s1600/JANGADEIRO.jpg"
+  },
+{
+  "name": "Rádio Kboing 100.3 FM - São José do Rio Preto / SP",
+  "url": "https://stream.knbcdn.com.br/kboing-fm/kbostream-hd/playlist.m3u8",
+  "genre": "Pop-Rock, Adulta, Pop",
+  "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5Hny_mYp_Ht4-CoKc5SsR7J6J5eQ4yRSIVlNtnzTrASA0n9z4VhqjaDVoPGTkiuoIS718vSHSto1TwiAac9_3igOw5vZJi1LHWubZq91dL_MrbCwgyMc1PIx3wTm5Z46eYIVrkWKgZanHVkDADGw3Om-jkVvop2j0iz1Vu7HsDqVRTeUeO-DMSoOwIY8/s1600/KBOING.jpg"
+},
+
+ {
+    "name": "Radio Saudade 99,7 FM - Santos",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SAUDADE_FMAAC.aac?dist=radios.com.br",
+  "genre": "Flashback, Adulta, Classic Hits",
+  "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWX9LEuTMUnFBW3OeVdL3dqW05t7XNdYBO0hrLhjuQXfJzOIYbqOBWzMCBixLBZo3H2UN-krM_07qC4CfIncyi4W56iNiQkQe6NVdArpplol7CduOkOsLHqjrPDRX9m7PFQ8xhIsz_YXWd5351tahshXJpcYzVSMzGz8ztbeF7fSt6q9KGLez-xeexNLs/s1600/SAUDAD.png"
+  },
+ {
+    "name": "Rádio Viola Viva Caipira - Uberlândia / MG",
+    "url": "https://centova.euroti.com.br:20055/stream?1774881251199",
+  "genre": "Sertaneja, Adulta, Sertanejo Raiz",
+  "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoEomRkVOJueuiW6Qv22_CMvmoC4rqhr8kYISPtYLQIstyAe6zXQhv4HfibmBIQ_k_lS1NFo79sZCm1LG2DElV5SFGPfwikN_WeekwPZuAZ1wg665iUhHyC3Vz7g-Ii-_Tw4ZBDDcgBWkNxgTNLqY0_lhQ7Vmweqo66sfgkF6eHXgg71Wopb4tyjvKYe4/s1600/VIOLA.png"
+  },
+ {
+    "name": "Rádio Ziggy The Beatles Varginha / MG",
+    "url": "http://stream.zeno.fm/4mhsf4teknzuv",
+  "genre": "Rock",
+  "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXRCG_ecXoyWgdfZ3YJExWOYMOgCPAk5DQfWGgr6YnXdBG1iytMxCvLjTS3n-4t-KUHm6P3IqdGzo6PgG_OSqroCqqvrbQk6G0L-JQwj0XZo1lPhez9Lrw0IrLr2Y340ddrjVUH3_aQoMF2bIbqGi-2m-7-f-hiNMvhqlxY5q-uXLyueMh3gY5TO4KCEM/s1600/ZIGGY.jpg"
+  },
+{
+  "name": "VIP FM - São Paulo / SP",
+  "url": "https://streaming.inweb.com.br/vipfm1",
+  "genre": "Pop-Rock, Flashback, Adulta",
+  "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYk3EZmIuuaUDdIWy2mBGQRZ6yrVCoulJpv1nvMCr0cKHq-KV5k2casEsOmAQcW3pr9I9NzSDKKr-AQFDbSfYD4b-YCZpTupxx-auhOTwz_KnUpGT-gjiSKw7NYtX34Ahs2lwDw1CKqr-PTyjkOfjnWG37w__9SMTls3snrz2wiyggCy-zUQQjvC4Ow6s/s1600/VIP.jpeg"
+},
+
+]
