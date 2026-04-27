@@ -3,6 +3,12 @@
 [
 
 {
+  "name": "Rádio 89 FM Rádio Rock São Paulo / SP",
+  "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_89FMAAC.aac",
+  "genre": "Pop-Rock, Rock, Rock 'n' Roll",
+"logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4wJAHLPSvf1uDzn3zwN82_7MaNnYkhf4NJUB040nieC2ffBhehGaAYlVrtuR9uO88SACpqS5yB4OUQs95Lefgktk-evmcKquZJHVH2UiTsPQG3Lt60yLocaTuVomgW1BHcOtm2w43ozlcXSifbk72m6x1V_81WTZpIT3su8HGn00JxYUwphTY3ZDT7pc/s1600/89ROCK.jpg"
+},
+{
   "name": "Radio Alpha 101.7 - São Paulo",
   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ALPHAFM_ADP.aac?dist=RadiosNet",
   "genre": "Flashback, Adulta",
