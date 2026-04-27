@@ -38,7 +38,12 @@
   "genre": "Pop-Rock, Adulta, Pop",
   "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5Hny_mYp_Ht4-CoKc5SsR7J6J5eQ4yRSIVlNtnzTrASA0n9z4VhqjaDVoPGTkiuoIS718vSHSto1TwiAac9_3igOw5vZJi1LHWubZq91dL_MrbCwgyMc1PIx3wTm5Z46eYIVrkWKgZanHVkDADGw3Om-jkVvop2j0iz1Vu7HsDqVRTeUeO-DMSoOwIY8/s1600/KBOING.jpg"
 },
-
+{
+  "name": "Rádio Rock News São Paulo / SP",
+  "url": "https://radio.stmsrv.com:8382/stream",
+  "genre": "Pop-Rock, Classic Rock",
+  "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhK2NGv4Cp0-DdGw4hGR7VfIpO0KN_F5RLnM8b6x3qeZFxGmZfcK7YaWKZffcYjBz8NVc3dA3ttdpU8r70WR75BSASfIE-KvYu3oz2TJKrUixkjEZYI9Y4Pt_17RGJFyXUehkpobHQy1oerUyNbCB70vDh7Pv1AEAiCPDP0Bz6Ln5kHCAHg0thgUztQuVM/s1600/ROCKNEWS.jpg"
+},
  {
     "name": "Radio Saudade 99,7 FM - Santos",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SAUDADE_FMAAC.aac?dist=radios.com.br",
