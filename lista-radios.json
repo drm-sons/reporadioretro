@@ -45,6 +45,12 @@
   "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5Hny_mYp_Ht4-CoKc5SsR7J6J5eQ4yRSIVlNtnzTrASA0n9z4VhqjaDVoPGTkiuoIS718vSHSto1TwiAac9_3igOw5vZJi1LHWubZq91dL_MrbCwgyMc1PIx3wTm5Z46eYIVrkWKgZanHVkDADGw3Om-jkVvop2j0iz1Vu7HsDqVRTeUeO-DMSoOwIY8/s1600/KBOING.jpg"
 },
   {
+  "name": "Rádio Kiss 92.5 FM São Paulo / SP",
+  "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_KISSFM_ADP.aac?dist=web",
+  "genre": "Pop-Rock, Classic Rock",
+"logo": "LOGOTIPO_DA_RÁDIO"
+},
+  {
   "name": "Rádio Mpb Web Belo Horizonte / MG",
   "url": "https://stm8.painelcast.com:7016/stream",
   "genre": "Flashback, Adulta, MPB",
